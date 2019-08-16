@@ -1,0 +1,4 @@
+[{text:'student1',leaf:true,checked:false},
+{text:'student2',leaf:true,checked:false},
+{text:'student3',checked:false,children:[{text:'student4',leaf:true}]}
+]

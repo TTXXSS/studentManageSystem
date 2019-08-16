@@ -1,0 +1,4 @@
+[{text:'class',leaf:true,checked:false},
+{text:'class1',leaf:true,checked:false},
+{text:'superclass',checked:false,children:[{text:'superclass1',leaf:true}]}
+]
